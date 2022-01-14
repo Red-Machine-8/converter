@@ -1,0 +1,11 @@
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\obj\Debug\Конвертер.csproj.AssemblyReference.cache
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\obj\Debug\Конвертер.csproj.SuggestedBindingRedirects.cache
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\obj\Debug\Конвертер.Form1.resources
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\obj\Debug\Конвертер.Properties.Resources.resources
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\obj\Debug\Конвертер.csproj.GenerateResource.cache
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\obj\Debug\Конвертер.csproj.CoreCompileInputs.cache
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\bin\Debug\Конвертер.exe.config
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\bin\Debug\Конвертер.exe
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\bin\Debug\Конвертер.pdb
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\obj\Debug\Конвертер.exe
+C:\Users\kisly\OneDrive\Desktop\Конвертер\Конвертер\obj\Debug\Конвертер.pdb
